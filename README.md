@@ -61,6 +61,15 @@ Gosto de unir **lógica + design + performance**, desenvolvendo soluções compl
 Participação em projeto acadêmico de desenvolvimento de sistemas utilizando Angular, Node.js, Docker, APIs REST e Postman.
 
 ---
+HABILIDADES TÉCNICAS
+Backend: C#, .NET, ASP.NET Core, Node.js, Python
+Frontend: React, Angular, HTML5, CSS3, JavaScript, TypeScript
+Monitoramento & Operações: Monitoramento de aplicações e serviços, análise de falhas, investigação de incidentes
+Banco de Dados: SQL Server, MySQL, PostgreSQL
+Cloud & DevOps: AWS, Docker, Git, GitHub, CI/CD
+Integrações: APIs REST, Webhooks, JSON
+IA & Automação: OpenAI API, Claude, Gemini, Prompt Engineering, IA Generativa, Groq
+Sistemas & Infraestrutura: Linux, Windows, redes TCP/IP, tro
 
 ### 📈 GitHub Stats
 
