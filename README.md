@@ -47,13 +47,18 @@ Gosto de unir **lógica + design + performance**, desenvolvendo soluções compl
 
 ---
 
-### 🎓 Formação Acadêmica
+🎓 Formação
 
-- 🎓 **Engenharia de Software** –*(Cursando)*  
-- 💻 **Análise e Desenvolvimento de Sistemas** – IFBA *(2025)*  
-- 🧠 **Técnico em Desenvolvimento de Sistemas** – SENAI *(2025)*  
-- ⚙️ **Eletromecânica** – SENAI *(2019)*  
+🎓 Engenharia de Software — UNINTER (Cursando)
 
+💻 Técnico em Desenvolvimento de Sistemas — SENAI (2025)
+
+⚙️ Técnico em Eletromecânica — SENAI (2019)
+
+📚 Formação Complementar e Projetos Acadêmicos
+
+💻 ADS Labs — IFBA (30h, 2025)
+Participação em projeto acadêmico de desenvolvimento de sistemas utilizando Angular, Node.js, Docker, APIs REST e Postman.
 
 ---
 
